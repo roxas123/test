@@ -19,7 +19,7 @@ int main (void)
 	
 	}
 	temp = x/20;
-	printf("%.3f",temp);
+	printf("%.3f \n",temp);
 	printf("The Value of x is %f \n", x);
 
 }
